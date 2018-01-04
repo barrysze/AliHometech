@@ -1,4 +1,4 @@
-##歡迎來到AliHometech，在這裡我們會介紹淘寶上的熱門電器，家居用品
+歡迎來到AliHometech，在這裡我們會介紹淘寶上的熱門電器，家居用品
 
 You can use the [editor on GitHub](https://github.com/barrysze/alihome/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
